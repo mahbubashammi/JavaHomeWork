@@ -1,8 +1,8 @@
  package hw1JavaBasic;
 
-//ProjectNameStartWithUppercase
-//PackageNameStartWithLowercase
-//ClassNameStartWithUppercase
+//Project Name Start With Uppercase
+//Package Name Start With Lowercase
+//Class Name Start With Uppercase
 public class Myself {
 
 //Entry point for Java

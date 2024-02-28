@@ -7,12 +7,12 @@ public class AboutMe {
 	public char myGender = 'F';
 	public boolean fullTimestudent = false;
 
-	public AboutMe() {
+	public AboutMe() { //default constructor declared here
 		System.out.println("---this is all about me");
 
 	}
 
-	public void aboutMe() {
+	public void aboutMe() { //method implemented here
 		System.out.println("\nmy Name" + myName + "\nmyAge" + myAge + "\nMy Gemder" + myGender + "\nfullTimestudent"
 				+ fullTimestudent + "\nmy height" + myHeight);
 
